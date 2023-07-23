@@ -33,7 +33,7 @@ echo -e "
 
 by "
 
-figlet MASTER-HACK |lolcat
+figlet BIJAYA |lolcat
 figlet IP-PHISHING
 echo ""
 echo ""
